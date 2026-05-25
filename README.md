@@ -24,5 +24,5 @@ After the repository is pushed to GitHub, enable Pages with **Source: GitHub
 Actions** in the repository settings. The landing page URL will be:
 
 ```text
-https://techxnline.github.io/terie-carstarphen-portfolio/
+https://techxnline.github.io/myportfolio/
 ```
